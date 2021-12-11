@@ -1,6 +1,6 @@
 # brainfuck
 
-Brainfuck interpreter written in Go
+[Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in Go
 
 It is written as a Golang package so you can install it with:
 
